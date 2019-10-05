@@ -1,0 +1,155 @@
+					<!DOCTYPE html>
+<html>
+	<head>
+		<title>Praktikum teknologi cloud computing</title>
+		<style type="text/css">
+			header, section, footer, aside, nav, article, figure, figcaption {
+				display: block;}
+			body {
+				color: #666666;
+				background-color: #f9f8f6;
+				background-image: url("qqq.jpg");
+				background-position: center;
+				font-family: Georgia, Times, serif;
+				line-height: 1.4em;
+				margin: 0px;}
+			.wrapper {
+				width: 940px;
+				margin: 20px auto 20px auto;
+				border: 2px solid #000000;
+				background-color: #ffffff;}
+			header {
+				height: 160px;
+				background-image: url(index.png);}
+				te
+			h1 {
+				text-indent: -9999px;
+				width: 940px;
+				height: 130px;
+				margin: 0px;}
+			nav, footer {
+				clear: both;
+				color: #ffffff;
+				background-color: #aeaca8;
+				height: 30px;}
+			nav ul {
+				margin: 0px;
+				padding: 5px 0px 5px 30px;}
+			nav li {
+				display: inline;
+				margin-right: 40px;}
+			nav li a {
+				color: #ffffff;}
+			nav li a:hover, nav li a.current {
+				color: #000000;}
+			section.courses {
+				float: left;
+				width: 659px;
+				border-right: 1px solid #eeeeee;}
+			article {
+				clear: both;
+				overflow: auto;
+				width: 100%;}
+			hgroup {
+				margin-top: 40px;}
+			figure {
+				float: left;
+				width: 290px;
+				height: 220px;
+				padding: 5px;
+				margin: 20px;
+				border: 1px solid #eeeeee;}
+			figcaption {
+				font-size: 90%;
+				text-align: left;}
+			aside {
+				width: 230px;
+				float: left;
+				padding: 0px 0px 0px 20px;}
+			aside section a {
+				display: block;
+				padding: 10px;
+				border-bottom: 1px solid #eeeeee;}
+			aside section a:hover {
+				color: #985d6a;
+				background-color: #efefef;}
+			a {
+				color: #de6581;
+				text-decoration: none;}
+			h1, h2, h3 {
+				font-weight: normal;}
+			h2 {
+				margin: 10px 0px 5px 0px;
+				padding: 0px;}
+			h3 {
+				margin: 0px 0px 10px 0px;
+				color: #de6581;}
+			aside h2 {
+				padding: 30px 0px 10px 0px;
+				color: #de6581;}
+			footer {
+				font-size: 80%;
+				padding: 7px 0px 0px 20px;}
+		</style>
+		
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1>Alan resky lumembang</h1>
+				<h1>145410243</h1>
+				<nav>
+					<ul>
+						<li><a href="http://localhost" class="current">Home</a></li>
+						<li><a href="http://localhost">tentang</a></li>
+						<li><a href="http://localhost">kontak</a></li>
+					</ul>
+				</nav>
+			</header>
+			<section class="courses">
+				<article>
+					<figure>
+						<img src="aa.jpg" />
+						<figcaption>MBaas</figcaption>
+					</figure>
+					<hgroup>
+						<h2>Kelebihan Membuat Mobile App Dengan Mobile Backend as a Service </h2>
+						<h3>MBaas</h3>
+					</hgroup>
+					<p>Bagaimana jika Anda bisa membuat seluruh bagian belakang untuk aplikasi mobile Anda yang fitur-lengkap dalam data synchronization, push-notification support, user management dan file-handling bahkan sebelum Anda mulai membangun UI/UX pada Mobile App. Penyedia Mobile Back end as a service (MBaaS) bertujuan untuk memberikan kemudahan bagi pengembang aplikasi mobile.
+
+Dengan Mobile Backend as a Service (mBaaS), developer dapat membangun solusi yang scalable dan mempertahankan pertumbuhan pengguna, data, dan jangkauan akses. Mobile Backend as a Service  (mBaaS) adalah hal standart bagi pengembangan mobile app professional / web apps developer dalam memberikan solusi bagi masyarakat atau perusahaan..</p>
+				</article>    
+				<article>
+					<figure>
+						<img src="22.png" />
+						<figcaption>Mengenal Arsitektur Serverless</figcaption>
+					</figure>
+					<hgroup>
+						<h2>Mengenal Arsitektur Serverless</h2>
+						<h3>Serverless Computing</h3>
+					</hgroup>
+					<p>Apa yang dimaksud Serverless Computing? Serverless Computing adalah teknologi terkini dalam cloud computing. akhir2 ini banyak orang yang membicarakan tentang serverless computing. Kalau kita denger dari namanya saja kita pasti mikir, oh serverless computing itu teknologi komputasi dengan sedikit server? hm…. tentu saja bukan hehehe.. Serverless computing menurut aws sendiri merupakan teknologi yang memungkinkan kita untuk membangun dan menjalankan aplikasi / website tanpa harus memikirkan tentang bagaiman cara mengoperasikan server itu..</p>
+				</article>    
+			</section>
+			<aside>
+				<section class="popular-recipes">
+					<h2>Jenis Cloud Computing Paling Di Butuhkan Bagi Perusahaan</h2>
+					<a href="http://localhost">IaaS ( Infrastructure as a Service )</a>
+					<a href="http://localhost">PaaS ( Platform as a Service ) juga di kenal dengan sebutan Blockchain as a Service (BaaS)</a>
+					<a href="http://localhost">SaaS ( Software as a Service )</a>
+					<a href="http://localhost">SECaaS ( Security as a Service )</a>
+				</section>
+				<section class="contact-details">
+					<h2>Kontak</h2>
+					<p>cloud computig<br />
+						Stmik akakom
+				</section>
+			</aside>
+			<footer>
+				&copy; 2019 alan resky lumembang
+				145410243
+			</footer>
+		</div><!-- .wrapper -->
+	</body>
+</html> 
